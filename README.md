@@ -56,4 +56,4 @@ Transaction Reports: Grouping spending by category and gender to find total and 
 
 Currently pursuing AI Training at IIT Patna
 
-GitHub Profile | Instagram: d_inquistive_mind
+GitHub Profile | Linkedin: Akanksha Gudla
