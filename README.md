@@ -1,5 +1,6 @@
 # Pandas-Essentials
 Pandas Basics: Comprehensive Data Manipulation Guide
+
 This repository contains a collection of Python scripts and notebooks demonstrating core data manipulation and analysis techniques using the Pandas library. As a B.Tech graduate and aspiring data scientist currently training in AI at IIT Patna, I have developed these examples to serve as a foundational reference for ETL processes, data cleaning, and complex aggregations.
 
 🚀 Overview
