@@ -35,7 +35,7 @@ Transformations: Applying element-wise operations and comparing different DataFr
 Clone the repository:
 
 Bash
-git clone https://github.com/[gudlaakanksha011]/Pandas-Basics.git
+git clone https://github.com/[gudlaakanksha011]/Pandas-Essentials.git
 Install dependencies:
 
 Bash
