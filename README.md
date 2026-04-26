@@ -44,6 +44,7 @@ Run the script:
 
 Bash
 python pandas_basics.py
+
 📊 Sample Visualizations & Analysis
 The scripts utilize several datasets (e.g., student records and transaction samples) to demonstrate real-world scenarios. This includes:
 
